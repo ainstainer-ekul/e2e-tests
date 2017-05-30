@@ -11,7 +11,7 @@ export let config: Config = {
     },
 
     framework: 'custom',
-    frameworkPath: require.resolve('protractor-cucumber-framework'),
+    frameworkPath: require.resolve('e2e-typescript-testsuit'),
 
     specs: [
         '../../features/featurePlaceHolder.feature'
