@@ -1,0 +1,6 @@
+e2e-typescript-testsuit/node_modules/
+e2e-typescript-testsuit/TypeScript/
+e2e-typescript-testsuit/reports/
+*.js
+.DS_Store
+.vscode
