@@ -1,7 +1,7 @@
 Steps to launch e2e tests:
 
-npm install
-npm run webdriver-update
-npm run webdriver-start
-npm run tsc
-npm test
+1. npm install
+2. npm run webdriver-update
+3. npm run webdriver-start
+4. npm run tsc
+5. npm test
